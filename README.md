@@ -22,7 +22,7 @@ A modern, fully responsive website built with **Next.js 15**, **Tailwind CSS**, 
 
 ## 🛠️ Tech Stack
 
-- **Framework:** [Next.js 14](https://nextjs.org/)
+- **Framework:** [Next.js 15](https://nextjs.org/)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **UI Components:** [ShadCN UI](https://ui.shadcn.com/)
 - **Animations:** [Framer Motion](https://www.framer.com/motion/)
