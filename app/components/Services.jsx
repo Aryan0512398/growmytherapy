@@ -31,10 +31,10 @@ export default function Services() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
           {therapist.services.map((service, index) => (
             <div key={index} className="flex flex-col items-center text-center">
-              {/* Optional: Match image name to service title or set default */}
+              {/* Service Image */}
               <div className="w-48 h-48 mb-6 rounded-full overflow-hidden">
                 <Image
-                  src={`/service${index + 1}.jpg`} // Make sure these images exist
+                  src={`/service${index + 1}.jpg`} 
                   alt={service.title}
                   width={192}
                   height={192}

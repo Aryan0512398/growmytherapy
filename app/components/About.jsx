@@ -8,7 +8,7 @@ export default function About() {
     <RevealOnScroll>
       <section id="about" className="bg-white py-16 px-4 md:px-10">
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row gap-10 md:items-start">
-          {/* Heading - Always First */}
+          {/* Heading for Sm Screen */}
           <h2 className="text-4xl font-serif text-[#3e3e3e] mb-6 md:hidden">
             Meet Dr. Serena Blake
         </h2>
@@ -26,7 +26,7 @@ export default function About() {
 
         {/* Text Content */}
         <div className="w-full md:w-1/2 order-2 md:order-1 flex flex-col justify-start">
-          {/* Heading for desktop */}
+          {/* Heading for Md Screen */}
           <h2 className="text-4xl font-serif text-[#3e3e3e] mb-4 hidden md:block">
             Meet Dr. Serena Blake
           </h2>

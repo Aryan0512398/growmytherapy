@@ -46,7 +46,7 @@ export default function Footer() {
           </Link>
         </div>
 
-        {/* Client Portal (optional link) */}
+        {/* Client Portal  */}
         <div className="mt-4">
           <Link
             href="/"
